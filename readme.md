@@ -47,26 +47,26 @@ urllib3==1.26.9
 >Executable file made with [cx_Freeze](https://marcelotduarte.github.io/cx_Freeze/)
 
 #### Browse Movie (With Pagination)
-![](/doc_images/browseMovie.png)
+![](/doc_images/browseMovie.PNG)
 #### Search Movie (Search with any related keyword and pagination)
-![](/doc_images/searchMovie.png)
+![](/doc_images/searchMovie.PNG)
 #### Watch Movie (In App or open in default browser)
-![](/doc_images/watchMovie.png)
+![](/doc_images/watchMovie.PNG)
 #### Youtube Web browser View
-![](/doc_images/youtube.png)
+![](/doc_images/youtube.PNG)
 
 #### User Crud (Add, delete and editable table rows)
-![](/doc_images/userCrud.png)
+![](/doc_images/userCrud.PNG)
 #### Todo Crud (Add, delete and editable table rows)
-![](/doc_images/todoCrud.png)
+![](/doc_images/todoCrud.PNG)
 #### Register Page (With Validations for null, duplicate email, etc)
 ![](/doc_images/register.PNG)
-![](/doc_images/registerValidation.png)
+![](/doc_images/registerValidation.PNG)
 #### Login Page (Validations for email exists and correct password(bcrypt hashed))
 ![](/doc_images/login.PNG)
-![](/doc_images/loginValidation.png)
+![](/doc_images/loginValidation.PNG)
 ##### Login Success
-![](/doc_images/loginSuccess.png)
+![](/doc_images/loginSuccess.PNG)
 
 
 
